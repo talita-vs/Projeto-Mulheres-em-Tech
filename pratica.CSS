@@ -1,0 +1,74 @@
+header{
+    background-image:url(./img/header-bg.jpg);
+    background-size: cover;
+    height: 562px;
+}
+
+
+.button{
+    width: 296px;
+    height: 48px;
+    border-radius: 8px;
+    border: none;
+}
+
+a{text-decoration: none;}
+
+
+.container{ 
+    width: 1400px;
+    margin: 20px 20px;
+    }
+
+img{
+
+    margin: 25px 0px;
+}
+
+h1{
+margin-bottom: 25px;
+}
+
+p{
+  width: 60%; 
+  margin-bottom: 15px;
+} 
+
+h4{
+    margin-bottom: 25px;
+}
+
+body{
+    font-family: "poppins", sans-serif;
+    background-color: #f1f3f5;
+}
+
+.mini{
+    width: 150px;
+    height: 38px;
+    border-radius: 8px;
+    border: none;
+}
+
+.main-container{
+    display:flex
+}
+
+.card{ width: 818px;
+    height: 307;
+    left: 0px;
+    top: 0px;
+    border-radius: 8px;
+    padding: 38px;
+    margin: 20px auto; 
+}
+
+.lateral{width: 400px;
+    height: 307;
+    left: 0px;
+    top: 0px;
+    border-radius: 8px;
+    padding: 38px;
+    margin: 20px 20px 
+
+}
